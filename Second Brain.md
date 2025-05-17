@@ -4,10 +4,17 @@
 - [[Objetivos do mês]]
 
 ## Estudos
-- [[JS Básico]]
+- #função
 - [[Anki – Técnicas de Repetição]]
 - [[Zettelkasten]]
 
 ## Projetos
 - [[Portfólio]]
 - [[Site pessoal]]
+
+### 🚀 Projetos Ativos
+```dataview
+table file.name, tags, status
+from "Projetos"
+sort file.mtime desc
+```

@@ -289,6 +289,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "smart-second-brain:open-chat",
+      "name": "Smart Second Brain: Open Chat",
+      "icon": "bot"
     }
   ],
   "followingCommands": [],
@@ -302,7 +307,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
-  "cMenuFontColor": "#b2a2c7",
+  "cMenuFontColor": "#3f3151",
   "cMenuBackgroundColor": "rgba(74, 82, 199, 0.2)",
   "autohide": false,
   "Iscentered": false,

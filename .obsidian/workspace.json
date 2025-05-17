@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "📅 2025-05-17"
             }
-          },
-          {
-            "id": "79a5a2dd59c43319",
-            "type": "leaf",
-            "state": {
-              "type": "setup-view",
-              "state": {},
-              "icon": "cog",
-              "title": "Setup"
-            }
           }
         ]
       }
@@ -64,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#função",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,22 +178,27 @@
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
       "history-today:On this day": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec365118bc1e1a4",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Templates/Daily Notes.md",
+    "Second Brain.md",
+    "Projetos/teste-dataview.md",
+    "Projetos/teste-projeto.md",
+    "Timeline/Diária/📅 2025-05-17.md",
+    "Chats/New Chat.md",
+    "Chats",
     "Templates/Mensal Notes.md",
+    "Templates/Daily Notes.md",
     "Timeline/Untitled.md",
     "Untitled.md",
     "UntitledEms.md",
-    "Timeline/Diária/📅 2025-05-17.md",
     "Templates/Sem título",
     "Anotações/Parâmetros de função.md",
     "Timeline/Diária/2025-05-18.md",
     "Timeline/Diária/2025-05-17.md",
-    "Second Brain 🧠.md",
     "Timeline/Diária",
     "Ideia aleatória.md",
     "Timeline/2025-05-16.md",
@@ -223,12 +218,8 @@
     "1 - Full notes/Anotações Função.md",
     "1 - Full notes/Programação/JavaScript/Função/Função.md",
     "1 - Full notes/Programação/HTML/Formulários/Form.md",
-    "1 - Full notes/Programação/HTML/Listas/Listas.md",
-    "1 - Full notes/Programação/HTML/Listas/UL - Não Ordenada.md",
-    "1 - Full notes/Programação/HTML/Listas/OL - Ordenada.md",
     "1 - Full notes/Programação/CSS/Posicionamento",
     "1 - Full notes/Programação/CSS/Elementos",
-    "1 - Full notes/Programação/CSS/CSS",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",
