@@ -1,12 +1,23 @@
+---
+tags:
+  - daily
+tipo: daily
+date: <% tp.date.now("YYYY-MM-DD") %>
+---
 
-## Tarefas
+# 🧠 Reflexões
+- ...
+
+# ✅ Tarefas do dia
 - [ ] ...
 
-## Reflexão
+# 💡 Ideias aleatórias
 - ...
 
-## Aprendizados de Hoje
-- ...
+# 📊 Registro
 
-## Anotações soltas
-- [[Ideia aleatória]]
+### Foco: ...
+
+### O que fiz de bom hoje: ...
+
+### O que pode melhorar: ...
