@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1741900281168,
+      "path": "1 - Full notes/Programação/JavaScript"
+    },
+    {
+      "type": "graph",
+      "ctime": 1742589819427,
+      "title": "Cérebro Geral",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "Repetições",
+            "color": {
+              "a": 1,
+              "rgb": 65280
+            }
+          },
+          {
+            "query": "Condições",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "Tipos de Dados",
+            "color": {
+              "a": 1,
+              "rgb": 5299420
+            }
+          },
+          {
+            "query": "Variáveis",
+            "color": {
+              "a": 1,
+              "rgb": 10519295
+            }
+          },
+          {
+            "query": "Operadores",
+            "color": {
+              "a": 1,
+              "rgb": 16746496
+            }
+          },
+          {
+            "query": "DOM",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "JavaScript",
+            "color": {
+              "a": 1,
+              "rgb": 16777060
+            }
+          },
+          {
+            "query": "Lógica",
+            "color": {
+              "a": 1,
+              "rgb": 9830550
+            }
+          },
+          {
+            "query": "Programação",
+            "color": {
+              "a": 1,
+              "rgb": 8388607
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1.0000000000000087,
+        "close": true
+      }
+    }
+  ]
+}
