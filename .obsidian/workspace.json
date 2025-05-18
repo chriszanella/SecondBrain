@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes.md",
+                "file": "Timeline/Diária/📅 2025-05-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes"
+              "title": "📅 2025-05-18"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "202c8196eb7f4b46",
         "type": "tabs",
-        "dimension": 61.165048543689316,
+        "dimension": 69.60309777347531,
         "children": [
           {
             "id": "534219a3d9e93372",
@@ -80,7 +80,7 @@
       {
         "id": "149b08de495f4376",
         "type": "tabs",
-        "dimension": 38.83495145631068,
+        "dimension": 30.39690222652468,
         "children": [
           {
             "id": "4ec365118bc1e1a4",
@@ -105,7 +105,7 @@
       {
         "id": "f6174ffb1528a664",
         "type": "tabs",
-        "dimension": 28.081556997219646,
+        "dimension": 31.788693234476366,
         "children": [
           {
             "id": "650d272f44eb594e",
@@ -133,7 +133,7 @@
       {
         "id": "8552076b7cb79ccc",
         "type": "tabs",
-        "dimension": 33.82761816496756,
+        "dimension": 35.403151065801666,
         "children": [
           {
             "id": "53718fc0fd9460ef",
@@ -150,7 +150,7 @@
       {
         "id": "5af6b984b0ca7056",
         "type": "tabs",
-        "dimension": 38.09082483781279,
+        "dimension": 32.808155699721965,
         "children": [
           {
             "id": "42c2e056909e894a",
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes.md",
+                "file": "Timeline/Diária/📅 2025-05-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Daily Notes"
+              "title": "Sumário de 📅 2025-05-18"
             }
           }
         ]
@@ -186,20 +186,20 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "history-today:On this day": false,
-      "smart-second-brain:Open S2B Chat": false,
-      "obsidian-git:Open Git source control": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9e2403624c4d66c6",
+  "active": "664085d32edeefba",
   "lastOpenFiles": [
+    "Second Brain.md",
+    "Timeline/Diária/📅 2025-05-18.md",
+    "*****.md",
+    "Templates/Daily Notes.md",
     "Timeline/Diária/crtxy.md",
     "Timeline/Diária/📅 2025-05-17.md",
-    "Templates/Daily Notes.md",
     "Templates/Mensal Notes.md",
-    "Second Brain.md",
     "Projetos/teste-dataview.md",
     "Projetos/teste-projeto.md",
     "Chats/New Chat.md",
@@ -227,8 +227,6 @@
     "2025-W20.md",
     "1 - Full notes/Programação/JavaScript/Condições/Condições.md",
     "Anotações",
-    "1 - Full notes/Anotações Função.md",
-    "1 - Full notes/Programação/JavaScript/Função/Função.md",
     "1 - Full notes/Programação/CSS/Posicionamento",
     "1 - Full notes/Programação/CSS/Elementos",
     "5 - Desenhos/1 - Mapa Mental.canvas",

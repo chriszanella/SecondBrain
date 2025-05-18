@@ -1,6 +1,6 @@
 {
   "format": "📅 YYYY-MM-DD",
-  "autorun": false,
+  "autorun": true,
   "folder": "Timeline/Diária",
   "template": "Templates/Daily Notes"
 }
