@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Diária/📅 2025-05-18.md",
+                "file": "Second Brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 2025-05-18"
+              "title": "Second Brain"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#função",
+                "query": "tag:painel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 266.5
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -105,7 +105,7 @@
       {
         "id": "f6174ffb1528a664",
         "type": "tabs",
-        "dimension": 31.788693234476366,
+        "dimension": 29.075309818875116,
         "children": [
           {
             "id": "650d272f44eb594e",
@@ -118,6 +118,61 @@
             }
           },
           {
+            "id": "11f4bc4ad7fd295a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Importante/Anotação rápida/Horário - 22-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Horário - 22-26"
+            }
+          },
+          {
+            "id": "1d5bd7762540225f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Importante/Anotação rápida/Horário - 22-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Horário - 22-26"
+            }
+          },
+          {
+            "id": "d60d83effa33520e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "88d105c4f1d1584b",
+        "type": "tabs",
+        "dimension": 36.510962821734985,
+        "children": [
+          {
             "id": "664085d32edeefba",
             "type": "leaf",
             "state": {
@@ -127,30 +182,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8552076b7cb79ccc",
-        "type": "tabs",
-        "dimension": 35.403151065801666,
-        "children": [
-          {
-            "id": "53718fc0fd9460ef",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          }
         ]
       },
       {
         "id": "5af6b984b0ca7056",
         "type": "tabs",
-        "dimension": 32.808155699721965,
+        "dimension": 34.413727359389895,
         "children": [
           {
             "id": "42c2e056909e894a",
@@ -158,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Diária/📅 2025-05-18.md",
+                "file": "Second Brain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 📅 2025-05-18"
+              "title": "Sumário de Second Brain"
             }
           }
         ]
@@ -186,49 +223,46 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "664085d32edeefba",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "ADMIN/Painéis/🗿 Senhas.md",
+    "ADMIN/Painéis/Painel Funções.md",
+    "Importante/Anotações/Módulo de Funções/Set ou Setter.md",
+    "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
     "Second Brain.md",
+    "ADMIN/Linkador/Linkador de Painéis.md",
     "Timeline/Diária/📅 2025-05-18.md",
-    "*****.md",
-    "Templates/Daily Notes.md",
-    "Timeline/Diária/crtxy.md",
-    "Timeline/Diária/📅 2025-05-17.md",
-    "Templates/Mensal Notes.md",
-    "Projetos/teste-dataview.md",
-    "Projetos/teste-projeto.md",
-    "Chats/New Chat.md",
+    "Importante/Anotações/Módulo de Funções",
+    "Importante/Anotação rápida/Horário - 22-26.md",
+    "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
+    "Importante/Anotações/Módulo de Funções/Return em Função.md",
+    "Importante/Anotações/Módulo de Funções/Funções Imediatas.md",
+    "Importante/Anotações/Módulo de Funções/Escopo Léxico.md",
+    "Importante/Anotações/Módulo de Funções/Parâmetros de função.md",
+    "Importante/Anotações/Módulo de Funções/This.md",
+    "Importante/Anotações/Módulo de Funções/Closure.md",
+    "ADMIN/Templates/Anotação.md",
+    "ADMIN/Linkador/Linkador de Datas.md",
+    "ADMIN/Linkador/Linkador de Templates.md",
+    "ADMIN/Templates/Anotação rápida.md",
+    "ADMIN/Painéis/Untitled.md",
+    "Importante/Anotação rápida.md",
+    "Importante/Anotação rápida",
+    "ADMIN/Templates/Mensal Notes.md",
+    "ADMIN/Templates/Daily Notes.md",
+    "ADMIN/Templates/Painel.md",
+    "ADMIN",
+    "Importante",
+    "funcoes.md",
+    "ADMIN/Linkador",
+    "ADMIN/Painéis",
     "Chats",
-    "Timeline/Untitled.md",
-    "Untitled.md",
-    "UntitledEms.md",
-    "Templates/Sem título",
-    "Anotações/Parâmetros de função.md",
-    "Timeline/Diária/2025-05-18.md",
-    "Timeline/Diária/2025-05-17.md",
     "Timeline/Diária",
-    "Ideia aleatória.md",
-    "Timeline/2025-05-16.md",
-    "Timeline/17-05-2025.md",
-    "Templates",
+    "ADMIN/Templates",
     "Recursos (PDF, Imagens etc)",
-    "Projetos",
-    "Anotações/Funções imediatas.md",
-    "Anotações/Return em Função.md",
-    "Anotações/Escopo léxico.md",
-    "Timeline",
-    "Anotações/Closure.md",
-    "ola.md",
-    "2025-W20.md",
-    "1 - Full notes/Programação/JavaScript/Condições/Condições.md",
-    "Anotações",
-    "1 - Full notes/Programação/CSS/Posicionamento",
-    "1 - Full notes/Programação/CSS/Elementos",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",

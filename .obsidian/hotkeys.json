@@ -54,5 +54,25 @@
       ],
       "key": "A"
     }
+  ],
+  "templater-obsidian:create-Templates/Anotações.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-Templates/Anotação.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }

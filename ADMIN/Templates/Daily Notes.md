@@ -2,7 +2,7 @@
 tags:
   - daily
 tipo: daily
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: "{{date}}"
 ---
 
 # 🧠 Reflexões

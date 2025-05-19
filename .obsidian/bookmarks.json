@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "type": "folder",
-      "ctime": 1741900281168,
-      "path": "1 - Full notes/Programação/JavaScript"
-    },
-    {
       "type": "graph",
       "ctime": 1742589819427,
       "title": "Cérebro Geral",
@@ -95,6 +90,11 @@
         "scale": 1.0000000000000087,
         "close": true
       }
+    },
+    {
+      "type": "folder",
+      "ctime": 1747617931247,
+      "path": "Importante/Anotações"
     }
   ]
 }

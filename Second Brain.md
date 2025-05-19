@@ -1,16 +1,46 @@
+---
+aliases:
+  - Gerenciador Global de Painéis e Informações.
+---
+## Links importantes
+- <font color="#b2a2c7">Como instalar e configurar o WakaTime no seu perfil</font>
+> https://github.com/orgs/community/discussions/115279
+
+---
 
 ## Senhas//Tokens
-- [[*****]]
+- [[🗿 Senhas]]
 
-## Pessoais
-- [[2025-05-16 Daily]]
+---
+
+## Paineis
+#### Geral
+```dataview
+table file.name as "Painéis"
+from "ADMIN/Painéis"
+where contains(tags, "Painel")
+```
+
+---
+
+## Linkar
+- [[Linkador de Templates]]
+- [[Linkador de Datas]]
+- [[Linkador de Painéis]]
+
+---
 
 ## Estudos
-- [[Anki – Técnicas de Repetição]]
+- Html
+- CSS
+- TailwindCSS
+- Javascript
+
+---
 
 ### 🚀 Projetos Ativos
 ```dataview
 table file.name, tags, status
-from "Projetos"
+from "Importante/Projetos"
 sort file.mtime desc
 ```
