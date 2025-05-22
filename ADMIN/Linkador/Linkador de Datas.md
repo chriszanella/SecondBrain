@@ -1,4 +1,8 @@
 Voltar pro [[Second Brain]]
 #### Datas
-- [[📅 2025-05-17]];
-- [[📅 2025-05-18]]
+```dataview
+table
+from "Timeline/Diária"
+where contains(tags, "daily")
+sort file.name desc
+```

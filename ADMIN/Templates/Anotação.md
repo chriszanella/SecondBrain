@@ -10,7 +10,7 @@ const data7dias = tp.date.now("YYYY-MM-DD", 7);
 %>
 ## 📅 Data da anotação
 - Criado em: <% dataHoje %>
-- Última revisão: 
+- Última revisão: <% dataHoje %> | **( Não esquecer de atualizar!!! )**
 
 ---
 
@@ -19,7 +19,7 @@ const data7dias = tp.date.now("YYYY-MM-DD", 7);
 
 ---
 
-## 📌 Conceitos principais
+## 📌 Pontos Importantes
 - {{ Adiciona os principais pontos aqui }}
 - 
 
@@ -27,11 +27,6 @@ const data7dias = tp.date.now("YYYY-MM-DD", 7);
 
 ## 🧩 Conexões com outros temas
 - <!-- Linkar com painel principalmente -->
-
----
-
-## Anotações Rápidas e Importantes
-- 
 
 ---
 

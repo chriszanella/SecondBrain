@@ -5,7 +5,7 @@ tags:
 
 ## 📅 Data da anotação
 - Criado em: 2025-05-18
-- Última revisão: 
+- Última revisão: 2025-05-20 | **( Não esquecer de atualizar!!! )**
 
 ---
 
@@ -14,18 +14,16 @@ tags:
 
 ---
 
-## 📌 Conceitos principais
-- {{ Adiciona os principais pontos aqui }}
-- 
+## 📌 Pontos Importantes
+- Se refere ao objeto pai do seu escopo em que foi chamado.
+- Arrow Function Não muda o valor do this. (Funcionaria igual ao [[bind()]])
 
 ---
 
 ## 🧩 Conexões com outros temas
 - [[Painel Funções]]
----
+- [[bind()]]
 
-## Anotações Rápidas e Importantes
-- 
 ---
 
 ## 📖 Exemplos práticos

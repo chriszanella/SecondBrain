@@ -3,10 +3,9 @@ tags:
   - palavra-chave
 ---
 
-
 ## 📅 Data da anotação
 - Criado em: 2025-05-18
-- Última revisão: 2025-05-18
+- Última revisão: 2025-05-18 | **( Não esquecer de atualizar!!! )**
 
 ---
 

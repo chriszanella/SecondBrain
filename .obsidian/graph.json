@@ -6,81 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Repetições",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "Condições",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "Tipos de Dados",
-      "color": {
-        "a": 1,
-        "rgb": 5299420
-      }
-    },
-    {
-      "query": "Variáveis",
-      "color": {
-        "a": 1,
-        "rgb": 10519295
-      }
-    },
-    {
-      "query": "Operadores",
-      "color": {
-        "a": 1,
-        "rgb": 16746496
-      }
-    },
-    {
-      "query": "DOM",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "JavaScript",
-      "color": {
-        "a": 1,
-        "rgb": 16777060
-      }
-    },
-    {
-      "query": "Lógica",
-      "color": {
-        "a": 1,
-        "rgb": 9830550
-      }
-    },
-    {
-      "query": "Programação",
-      "color": {
-        "a": 1,
-        "rgb": 8388607
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 1.05703125,
+  "collapse-forces": false,
+  "centerStrength": 0.2265625,
+  "repelStrength": 9.94791666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000084,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.4444444444444474,
+  "close": false
 }

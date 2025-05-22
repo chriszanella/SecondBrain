@@ -1,8 +1,8 @@
 ---
 tags:
   - daily
-tipo: daily
 date: "{{date}}"
+Linkador: "[[Linkador de Datas]]"
 ---
 
 # 🧠 Reflexões
