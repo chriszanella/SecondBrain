@@ -16,8 +16,11 @@ Linkador: "[[Linkador de Datas]]"
 
 # 📊 Registro
 
-### Foco: ...
+### Foco:
+- 
 
-### O que fiz de bom hoje: ...
+### O que fiz de bom hoje:
+- 
 
-### O que pode melhorar: ...
+### O que pode melhorar:
+- 

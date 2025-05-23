@@ -3,10 +3,7 @@ tags:
 ---
 
 <%*
-const assunto = await tp.system.prompt("Qual é o assunto dessa nota?");
 const dataHoje = tp.date.now("YYYY-MM-DD");
-const data3dias = tp.date.now("YYYY-MM-DD", 3);
-const data7dias = tp.date.now("YYYY-MM-DD", 7);
 %>
 ## 📅 Data da anotação
 - Criado em: <% dataHoje %>
