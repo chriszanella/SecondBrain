@@ -23,3 +23,6 @@ nomes.push('Júlio')
 console.log(nomes) // ['Christian', 'Joaquim', 'Júlio']
 ```
 - `.unshift()` - Adiciona o que quiser no início do array. Similar ao `.push()`, porém agora no início do array( move todos os outros para o próximo índice )
+
+- `Numer.MAX_VALUE`  - Significa o maior número. 
+- s
