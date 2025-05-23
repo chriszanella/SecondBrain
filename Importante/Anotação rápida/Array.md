@@ -18,7 +18,8 @@ console.log(name) // 'Júlio'
 - `.push()` - Adiciona o que quiser ao final da array:
 ```js
 const nomes = ['Christian', 'Joaquim'];
+nomes.push('Júlio')
 
-
-console.log(nomes) // ['Christian', 'Joaquim']
+console.log(nomes) // ['Christian', 'Joaquim', 'Júlio']
 ```
+- `.unshift()` - Adiciona o que quiser no início do array. Similar ao `.push()`, porém agora no início do array( move todos os outros para o próximo índice )
