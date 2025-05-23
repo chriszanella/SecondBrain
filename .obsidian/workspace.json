@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotações/Funções Geradoras.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funções Geradoras"
+              "title": "🗿 Senhas"
             }
           }
         ]
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotações/Funções Geradoras.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Funções Geradoras"
+              "title": "Sumário de 🗿 Senhas"
             }
           }
         ]
@@ -229,8 +229,9 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
+    "Second Brain.md",
     "Importante/Anotações/Funções Geradoras.md",
+    "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
     "yield.md",
     "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
     "Importante/Anotações/Funções Recursivas.md",
@@ -247,7 +248,6 @@
     "ADMIN/Templates/Anotação.md",
     "Importante/Anotações/Módulo de Funções/Set ou Setter.md",
     "ADMIN/Painéis/🗿 Senhas.md",
-    "Second Brain.md",
     "Importante/Projetos/Trabalho da Feira de Ciências..md",
     "Importante/Anotações/Módulo de Funções/this.md",
     "ADMIN/Linkador/Linkador de Datas.md",
