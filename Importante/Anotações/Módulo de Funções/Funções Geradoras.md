@@ -2,16 +2,16 @@
 tags:
   - tipo-de-função
 ---
-
+	
 
 ## 📅 Data da anotação
 - Criado em: 2025-05-22
-- Última revisão: 2025-05-22 | **( Não esquecer de atualizar!!! )**
+- Última revisão: 2025-05-23 | **( Não esquecer de atualizar!!! )**
 
 ---
 
 ## 🧠 Resumo rápido
-<!-- Explica em até 3 frases o que é o assunto e por que ele é importante. -->
+Função que pode fazer "pausas".. E a cada vez que chamar ela retornar um valor definido.
 
 ---
 
@@ -20,6 +20,7 @@ tags:
 - Usa-se [[yield]]
 - Mostrando no console retorna: `Object [Generator]`
 - Usando o método `.next()`, para  verificar o próximo valor retornado(`yield`) -> [[#Usando next()]]
+- 
 
 ---
 
@@ -65,3 +66,24 @@ Valor 1
 Valor 2
 Valor 3
 ```
+
+#### Gerador infinito
+Podemos criar um gerador infinito, no qual sempre que chamarmos ele retorna um número maior -> 0,1,2,3,4,5,6,7,8,9 | infinito.
+```js
+	function* contador() {
+		let i = 0;
+		while(true) {
+			yield i;
+			i++;
+		}
+	}
+	const contador = contador()
+```
+> Isso nada mais faz o que?
+- Cria uma variável de controle no contador.
+- Faz um Loop Infinito que "retorna" o valor da variável de controle e adiciona um após isso.
+
+> Ou seja, sempre que chamarmos o contador assim -> `console.log(contador.next().value)`, ele irá retornar +1 número. 
+
+- primeiro mostrará o 0, pois ele mostra antes de adicionar. 
+	- ####
