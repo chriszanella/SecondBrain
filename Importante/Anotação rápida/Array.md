@@ -24,5 +24,5 @@ console.log(nomes) // ['Christian', 'Joaquim', 'Júlio']
 ```
 - `.unshift()` - Adiciona o que quiser no início do array. Similar ao `.push()`, porém agora no início do array( move todos os outros para o próximo índice )
 
-- `Numer.MAX_VALUE`  - Significa o maior número. 
-- s
+- `Numer.MAX_VALUE`  - Significa o maior número. -> 1.7976931348623157e+308
+- `.split(indice, delete, num1, num2, num3..)` - faz função de remover um ou mais de um indice, adicionar e etc. *Obs: Retorna um array com o(s) elementos removidos.*
