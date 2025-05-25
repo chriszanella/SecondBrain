@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Timeline/Diária/📅 2025-05-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "📅 2025-05-25"
             }
           }
         ]
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Timeline/Diária/📅 2025-05-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Array"
+              "title": "Sumário de 📅 2025-05-25"
             }
           }
         ]
@@ -229,13 +229,14 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Importante/Anotação rápida/Array.md",
+    "Timeline/Diária/📅 2025-05-25.md",
     "ADMIN/Painéis/🗿 Senhas.md",
     "Second Brain.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
     "Timeline/Diária/📅 2025-05-21.md",
     "Timeline/Diária/📅 2025-05-20.md",
-    "Importante/Anotação rápida/Array.md",
     "Timeline/Diária/📅 2025-05-23.md",
     "Timeline/Diária/📅 2025-05-22.md",
     "Importante/Anotação rápida/Split, toFixed, join..md",
@@ -254,7 +255,6 @@
     "ADMIN/Templates/Anotação rápida.md",
     "ADMIN/Templates/Anotação.md",
     "Importante/Anotações/Módulo de Funções/Set ou Setter.md",
-    "Importante/Projetos/Trabalho da Feira de Ciências..md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
