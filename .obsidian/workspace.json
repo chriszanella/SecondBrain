@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "Importante/Anotação rápida/Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Reduce"
+              "title": "Array"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "Importante/Anotação rápida/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Array Reduce"
+              "title": "Links inversos para Array"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "Importante/Anotação rápida/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Array Reduce"
+              "title": "Links de saída para Array"
             }
           }
         ]
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "Importante/Anotação rápida/Array.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Array Reduce"
+              "title": "Sumário de Array"
             }
           }
         ]
@@ -228,14 +228,14 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Importante/Anotação rápida/Array Concat.md",
+    "Importante/Anotação rápida/Array Filter.md",
+    "Importante/Anotação rápida/Dica do return.md",
+    "Importante/Anotação rápida/Array Map.md",
+    "Importante/Anotação rápida/Array Reduce.md",
     "ADMIN/Painéis/🗿 Senhas.md",
     "Second Brain.md",
     "Timeline/Diária/📅 2025-05-26.md",
-    "Importante/Anotação rápida/Array Reduce.md",
-    "Importante/Anotação rápida/Array Map.md",
-    "Importante/Anotação rápida/Array Filter.md",
-    "Importante/Anotação rápida/Dica do return.md",
-    "Importante/Anotação rápida/Array Concat.md",
     "Importante/Anotação rápida/Array.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
