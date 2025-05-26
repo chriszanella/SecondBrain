@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Array Concat.md",
+                "file": "Importante/Anotação rápida/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Concat"
+              "title": "Untitled"
             }
           }
         ]
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importante/Anotação rápida/Array Concat.md",
+                "file": "Importante/Anotação rápida/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Array Concat"
+              "title": "Links de saída para Untitled"
             }
           }
         ],
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Array Concat.md",
+                "file": "Importante/Anotação rápida/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Array Concat"
+              "title": "Sumário de Untitled"
             }
           }
         ]
@@ -229,8 +229,9 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotação rápida/Array.md",
     "Importante/Anotação rápida/Array Concat.md",
+    "Importante/Anotação rápida/Untitled.md",
+    "Importante/Anotação rápida/Array.md",
     "ADMIN/Painéis/🗿 Senhas.md",
     "Second Brain.md",
     "Timeline/Diária/📅 2025-05-25.md",
@@ -254,7 +255,6 @@
     "Timeline/Diária/📅 2025-05-17.md",
     "ADMIN/Templates/Daily Notes.md",
     "ADMIN/Templates/Anotação rápida.md",
-    "ADMIN/Templates/Anotação.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
