@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Reduce"
+              "title": "🗿 Senhas"
             }
           }
         ]
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -132,6 +131,39 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c5a5b700263abdfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 🗿 Senhas"
+            }
+          },
+          {
+            "id": "137f3c2bd71e0d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 🗿 Senhas"
+            }
           }
         ]
       },
@@ -163,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Array Reduce.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Array Reduce"
+              "title": "Sumário de 🗿 Senhas"
             }
           }
         ]
@@ -194,16 +226,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "650d272f44eb594e",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotação rápida/Array Map.md",
+    "Second Brain.md",
+    "Timeline/Diária/📅 2025-05-26.md",
     "Importante/Anotação rápida/Array Reduce.md",
+    "Importante/Anotação rápida/Array Map.md",
     "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Dica do return.md",
     "Importante/Anotação rápida/Array Concat.md",
     "Importante/Anotação rápida/Array.md",
     "ADMIN/Painéis/🗿 Senhas.md",
-    "Second Brain.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
@@ -221,7 +254,6 @@
     "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
     "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
     "Timeline/Diária/📅 2025-05-19.md",
-    "Timeline/Diária/📅 2025-05-18.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
