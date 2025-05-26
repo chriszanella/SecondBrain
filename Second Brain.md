@@ -13,6 +13,14 @@ aliases:
 
 ---
 
+## Atalhos
+- Super + E -> Abre o Explorador.
+- Super + C -> Abre o Chrome.
+- Super + T -> Abre o Terminal.
+- Super + F2 -> Abre a Calculadora
+
+---
+
 ## Paineis
 #### Geral
 ```dataview

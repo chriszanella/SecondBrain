@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/forEach.md",
+                "file": "Second Brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "forEach"
+              "title": "Second Brain"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importante/Anotação rápida/forEach.md",
+                "file": "Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para forEach"
+              "title": "Links inversos para Second Brain"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importante/Anotação rápida/forEach.md",
+                "file": "Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para forEach"
+              "title": "Links de saída para Second Brain"
             }
           }
         ]
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/forEach.md",
+                "file": "Second Brain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de forEach"
+              "title": "Sumário de Second Brain"
             }
           }
         ]
@@ -228,8 +228,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotação rápida/Array.md",
     "Importante/Anotação rápida/forEach.md",
+    "Importante/Anotação rápida/Array.md",
     "Importante/Anotação rápida/Array Concat.md",
     "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Dica do return.md",
