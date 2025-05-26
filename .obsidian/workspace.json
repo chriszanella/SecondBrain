@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Importante/Anotação rápida/forEach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "forEach"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Importante/Anotação rápida/forEach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Array"
+              "title": "Links inversos para forEach"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Importante/Anotação rápida/forEach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Array"
+              "title": "Links de saída para forEach"
             }
           }
         ]
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Array.md",
+                "file": "Importante/Anotação rápida/forEach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Array"
+              "title": "Sumário de forEach"
             }
           }
         ]
@@ -228,6 +228,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Importante/Anotação rápida/Array.md",
+    "Importante/Anotação rápida/forEach.md",
     "Importante/Anotação rápida/Array Concat.md",
     "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Dica do return.md",
@@ -236,7 +238,6 @@
     "ADMIN/Painéis/🗿 Senhas.md",
     "Second Brain.md",
     "Timeline/Diária/📅 2025-05-26.md",
-    "Importante/Anotação rápida/Array.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
@@ -253,7 +254,6 @@
     "Importante/Anotações/Módulo de Funções/yield.md",
     "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
     "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
-    "Timeline/Diária/📅 2025-05-19.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
