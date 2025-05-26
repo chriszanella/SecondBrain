@@ -23,4 +23,4 @@ const numbersFiltered = numbers.filter((valor) => {
 const numbers = [5, 50, 80, 1, 2, 3, 5, 8, 7, 11, 15, 22, 27];
 const numbersFiltered = numbers.filter(valor => return valor > 10);
 ```
-> Acima temos a mesma arrow function, porém como recebe apens
+> Acima temos a mesma arrow function, porém como recebe apenas um argumento eliminamos os parênteses, e como era apenas uma linha retornando `true` or `false`, eliminamos a palavra return e alinhamos tudo em uma linha.
