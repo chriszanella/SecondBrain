@@ -33,7 +33,7 @@
       {
         "id": "202c8196eb7f4b46",
         "type": "tabs",
-        "dimension": 69.60309777347531,
+        "dimension": 53.37787676317744,
         "children": [
           {
             "id": "534219a3d9e93372",
@@ -80,7 +80,7 @@
       {
         "id": "149b08de495f4376",
         "type": "tabs",
-        "dimension": 30.39690222652468,
+        "dimension": 46.62212323682256,
         "children": [
           {
             "id": "4ec365118bc1e1a4",
@@ -157,16 +157,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Diária/📅 2025-05-20.md",
+                "file": "Timeline/Diária/📅 2025-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 📅 2025-05-20"
+              "title": "Links de saída para 📅 2025-05-25"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "88d105c4f1d1584b",
@@ -229,10 +229,10 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotação rápida/Array.md",
-    "Timeline/Diária/📅 2025-05-25.md",
-    "ADMIN/Painéis/🗿 Senhas.md",
     "Second Brain.md",
+    "Timeline/Diária/📅 2025-05-25.md",
+    "Importante/Anotação rápida/Array.md",
+    "ADMIN/Painéis/🗿 Senhas.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
     "Timeline/Diária/📅 2025-05-21.md",
