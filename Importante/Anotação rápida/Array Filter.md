@@ -7,3 +7,4 @@ Dia :: 2025-05-25
 	- `índice` -> o índice desse valor, nesse caso 0.
 	- `array` -> retorna o array inteiro.
 - Ele funciona como um `for of` -> Passa pelo valor no índice 0, executa a função callback, depois pelo valor no índice 1, executa a funçã callback até o fim.
+- O método `.filter()`, requer que a função callback retorne um valor booleano -> `true`( Para quando você quiser que aquele valor seja imbutido no novo array ) or `false` ( Para quando você quiser que aquele valor não seja imbutido no novo array );
