@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Dica do return.md",
+                "file": "Importante/Anotação rápida/Array Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dica do return"
+              "title": "Array Filter"
             }
           }
         ]
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importante/Anotação rápida/Dica do return.md",
+                "file": "Importante/Anotação rápida/Array Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Dica do return"
+              "title": "Links de saída para Array Filter"
             }
           }
         ],
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Dica do return.md",
+                "file": "Importante/Anotação rápida/Array Filter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Dica do return"
+              "title": "Sumário de Array Filter"
             }
           }
         ]
@@ -229,8 +229,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Dica do return.md",
+    "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Array Concat.md",
     "Importante/Anotação rápida/Array.md",
     "ADMIN/Painéis/🗿 Senhas.md",
