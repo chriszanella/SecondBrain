@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Brain.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Brain"
+              "title": "🗿 Senhas"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -195,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Second Brain"
+              "title": "Sumário de 🗿 Senhas"
             }
           }
         ]
@@ -228,6 +229,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Second Brain.md",
+    "Timeline/Diária/📅 2025-05-26.md",
     "Importante/Anotação rápida/forEach.md",
     "Importante/Anotação rápida/Array.md",
     "Importante/Anotação rápida/Array Concat.md",
@@ -236,8 +239,6 @@
     "Importante/Anotação rápida/Array Map.md",
     "Importante/Anotação rápida/Array Reduce.md",
     "ADMIN/Painéis/🗿 Senhas.md",
-    "Second Brain.md",
-    "Timeline/Diária/📅 2025-05-26.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
