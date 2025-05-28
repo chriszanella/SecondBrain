@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADMIN/Painéis/🗿 Senhas.md",
+                "file": "Timeline/Diária/📅 2025-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗿 Senhas"
+              "title": "📅 2025-05-27"
             }
           }
         ]
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADMIN/Painéis/🗿 Senhas.md",
+                "file": "Timeline/Diária/📅 2025-05-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 🗿 Senhas"
+              "title": "Sumário de 📅 2025-05-27"
             }
           }
         ]
@@ -229,6 +229,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "ADMIN/Painéis/🗿 Senhas.md",
+    "Timeline/Diária/📅 2025-05-27.md",
     "Second Brain.md",
     "Timeline/Diária/📅 2025-05-26.md",
     "Importante/Anotação rápida/forEach.md",
@@ -238,7 +240,6 @@
     "Importante/Anotação rápida/Dica do return.md",
     "Importante/Anotação rápida/Array Map.md",
     "Importante/Anotação rápida/Array Reduce.md",
-    "ADMIN/Painéis/🗿 Senhas.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Função Construtora.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
@@ -254,7 +255,6 @@
     "Importante/Anotações/Módulo de Funções/Funções Geradoras.md",
     "Importante/Anotações/Módulo de Funções/yield.md",
     "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
-    "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
