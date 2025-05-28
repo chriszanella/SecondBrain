@@ -14,6 +14,6 @@ nomeCompleto(valor) {
 -  `terá 2 casas decimais`
 > Serve para definir a quantidade de casas após a vírgula terá
 
-#### .join(' ')
+#### .join('  ')
 - Usado para unir todos os elementos de um array em apenas uma string.
 - Pode personalizar o separador que por padrâo é `,`. Pode usar espaço vazio por exemplo: `' '`
