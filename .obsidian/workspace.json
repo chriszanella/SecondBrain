@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Diária/📅 2025-05-27.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 2025-05-27"
+              "title": "🗿 Senhas"
             }
           }
         ]
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -196,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Diária/📅 2025-05-27.md",
+                "file": "ADMIN/Painéis/🗿 Senhas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 📅 2025-05-27"
+              "title": "Sumário de 🗿 Senhas"
             }
           }
         ]
@@ -229,9 +228,9 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "ADMIN/Painéis/🗿 Senhas.md",
-    "Timeline/Diária/📅 2025-05-27.md",
     "Second Brain.md",
+    "Timeline/Diária/📅 2025-05-27.md",
+    "ADMIN/Painéis/🗿 Senhas.md",
     "Timeline/Diária/📅 2025-05-26.md",
     "Importante/Anotação rápida/forEach.md",
     "Importante/Anotação rápida/Array.md",
