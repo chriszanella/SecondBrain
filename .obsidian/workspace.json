@@ -66,12 +66,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/bind().md",
+                "file": "Timeline/Diária/📅 2025-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bind()"
+              "title": "📅 2025-05-27"
             }
           }
         ],
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -249,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/bind().md",
+                "file": "Timeline/Diária/📅 2025-05-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de bind()"
+              "title": "Sumário de 📅 2025-05-27"
             }
           }
         ]
@@ -282,6 +283,12 @@
   },
   "active": "8d692f3d94059054",
   "lastOpenFiles": [
+    "Timeline/Diária/📅 2025-05-22.md",
+    "Timeline/Diária/📅 2025-05-23.md",
+    "Timeline/Diária/📅 2025-05-25.md",
+    "Timeline/Diária/📅 2025-05-27.md",
+    "Importante/Anotação rápida/new Construct Function.md",
+    "Importante/Anotação rápida/bind().md",
     "Importante/Anotação rápida/Split, toFixed, join..md",
     "Importante/Anotação rápida/Funções Construtoras - 00-17.md",
     "Importante/Anotações/Módulo de Funções/Funções Fábrica.md",
@@ -293,7 +300,6 @@
     "ADMIN/Linkador/Linkador de Painéis.md",
     "Second Brain.md",
     "ADMIN/Painéis/🗿 Senhas.md",
-    "Timeline/Diária/📅 2025-05-27.md",
     "Timeline/Diária/📅 2025-05-26.md",
     "Importante/Anotação rápida/forEach.md",
     "Importante/Anotação rápida/Array.md",
@@ -302,12 +308,7 @@
     "Importante/Anotação rápida/Dica do return.md",
     "Importante/Anotação rápida/Array Map.md",
     "Importante/Anotação rápida/Array Reduce.md",
-    "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotações/Módulo de Funções/Return em Função.md",
-    "Timeline/Diária/📅 2025-05-21.md",
-    "Timeline/Diária/📅 2025-05-20.md",
-    "Timeline/Diária/📅 2025-05-23.md",
-    "Timeline/Diária/📅 2025-05-22.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
