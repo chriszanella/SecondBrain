@@ -66,12 +66,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/Travar objeto.md",
+                "file": "Timeline/Diária/📅 2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travar objeto"
+              "title": "📅 2025-06-06"
             }
           }
         ],
@@ -99,7 +99,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -218,6 +218,16 @@
               "icon": "links-going-out",
               "title": "Links de saída para Second Brain"
             }
+          },
+          {
+            "id": "17448a054725be64",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ]
       },
@@ -249,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Anotação rápida/Travar objeto.md",
+                "file": "Timeline/Diária/📅 2025-06-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Travar objeto"
+              "title": "Outline of 📅 2025-06-06"
             }
           }
         ]
@@ -266,14 +276,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "zk-prefixer:Criar nova nota única": false,
-      "random-note:Abrir nota aleatória": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
@@ -282,8 +292,9 @@
   },
   "active": "8d692f3d94059054",
   "lastOpenFiles": [
-    "Timeline/Diária/📅 2025-05-27.md",
     "Importante/Anotação rápida/Travar objeto.md",
+    "Timeline/Diária/📅 2025-06-06.md",
+    "Timeline/Diária/📅 2025-05-27.md",
     "Timeline/Diária/📅 2025-05-22.md",
     "Timeline/Diária/📅 2025-05-23.md",
     "Timeline/Diária/📅 2025-05-25.md",
@@ -307,7 +318,6 @@
     "Importante/Anotação rápida/Array Filter.md",
     "Importante/Anotação rápida/Dica do return.md",
     "Importante/Anotação rápida/Array Map.md",
-    "Importante/Anotação rápida/Array Reduce.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
