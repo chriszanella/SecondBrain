@@ -5,6 +5,6 @@ tags:
 ---
 
 ### Token - Git Ubunto
-	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
+	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
 
 ###
