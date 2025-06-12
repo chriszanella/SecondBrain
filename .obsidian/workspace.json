@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Brain.md",
+                "file": "Importante/Aprendendo A+ Aprender/Porque reler nem sempre é bom..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Brain"
+              "title": "Porque reler nem sempre é bom."
             },
             "group": "3f08bc73d9bec871"
           },
@@ -26,37 +26,14 @@
             "id": "791b2d9cbbd17d43",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Second Brain.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "Importante/Aprendendo A+ Aprender/Porque reler nem sempre é bom..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Second Brain"
+              "icon": "lucide-file",
+              "title": "Porque reler nem sempre é bom."
             },
             "group": "3f08bc73d9bec871"
           },
@@ -74,8 +51,7 @@
               "title": "Tire Férias"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importante/Aprendendo A+ Aprender/Tire Férias.md",
+                "file": "Importante/Aprendendo A+ Aprender/Porque reler nem sempre é bom..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tire Férias"
+              "title": "Outline of Porque reler nem sempre é bom."
             }
           }
         ]
@@ -290,10 +266,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d692f3d94059054",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Timeline/Diária/📅 2025-06-12.md",
+    "Second Brain.md",
+    "Importante/Aprendendo A+ Aprender/Porque reler nem sempre é bom..md",
     "Importante/Aprendendo A+ Aprender/Tire Férias.md",
+    "Timeline/Diária/📅 2025-06-12.md",
     "Importante/Aprendendo A+ Aprender",
     "ADMIN/Painéis/🗿 Senhas.md",
     "Importante/Anotação rápida/Array Filter.md",
@@ -316,9 +294,7 @@
     "Importante/Anotações/Módulo de Funções/yield.md",
     "Importante/Anotações/Módulo de Funções/Get ou Getter.md",
     "ADMIN/Linkador/Linkador de Painéis.md",
-    "Second Brain.md",
     "Timeline/Diária/📅 2025-05-26.md",
-    "Importante/Anotação rápida/forEach.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
