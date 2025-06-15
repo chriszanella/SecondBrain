@@ -15,8 +15,10 @@ Imagem: <font color="#7030a0">Feixe de Luz preciso de uma lanterna.</font>( Foco
 Espalhado por todo cérebro.
 Parece ligar à informação atual com tudo armazenado no cérebro, trazendo uma visão global, e melhor trabalho com às informações.
 
-O Modo difuso trabalha melhor tudo que você tem armazenado em seu cérebro. Útil para organizar diferentes informações quando esta tentando aprender algo ou resolver um problema, por exemplo:
-	Você está aprendendo uma nova língua e precisa organizar as informações do aprendizado, 
+<font color="#0f243e">O Modo difuso trabalha melhor tudo que você tem armazenado em seu cérebro. Útil para organizar diferentes informações quando esta tentando aprender algo ou resolver um problema, por exemplo:</font>
+	Você vai resolver um problema matemático que não viu antes, você verá dificuldade e precisará do modo difuso para ele buscar formas de resolver esse problema no meio de muitas outras fórmulas que você já resolveu.
+	<font color="#8db3e2">  Fórmula de Baskara por exemplo, é uma mistura de outras fórmulas como divisão, multiplicação, raiz quadrada, elevação. O cérebro mantém isso em "blocos" separados, e com modo difuso você passa por todos eles, quanto ao [[#Modo Foco]] Você utiliza apenas um desses blocos, porém muito mais rápido</font>
+	
 
 - Parece trabalhar em algo silenciosamente em segundo plano, algo em que você não esteja concentrado ativamente.
 
