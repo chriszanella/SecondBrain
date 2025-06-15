@@ -1,5 +1,7 @@
 O Cérebro trabalha com dois modos, porém, não conscientemente em ambos ao mesmo tempo.
 
+---
+
 ## Modo Foco
 O modo focado é o modo que é ativo quando focamos em algo afetado pelo córtex pré-frontal( ), raciocínio lógico, sequencial e analítico
 
@@ -11,6 +13,12 @@ O Modo focado é  mais concentrado, bom uso para resoluções de problemas muito
 - No modo focado você trabalha muito mais rápido( Formular mais facilmente um pensamento preciso ) , porém com informações que você já fez ou vivenciou.
 
 Imagem: <font color="#7030a0">Feixe de Luz preciso de uma lanterna.</font>( Foco em algo )
+
+
+---
+
+
+
 ## Modo Difuso
 Espalhado por todo cérebro.
 Parece ligar à informação atual com tudo armazenado no cérebro, trazendo uma visão global, e melhor trabalho com às informações.
