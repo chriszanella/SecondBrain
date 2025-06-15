@@ -1,3 +1,3 @@
 - Quando você foca em algum assunto e não consegue entender ou resolver o problema, tire um tempo para descansar, sair etc.
-- O cérebro continuará a trabalhar na quela ideia mesmo dormindo, e lhe dará a resposta.
+- O cérebro continuará a trabalhar naquela ideia mesmo dormindo, e lhe dará a resposta.
 - Mas ele só fará isso se você focar naquela tarefa antes de dormir ou sair.

@@ -1,1 +1,1 @@
-Porque você abrir a porta a oportunidades distintas da atuais, abrir chance a aprendizados e etc. Torna você melhor. 
+Você abrir a porta à oportunidades distintas da atuais, abrir chance à aprendizados e etc. Torna você melhor. 
