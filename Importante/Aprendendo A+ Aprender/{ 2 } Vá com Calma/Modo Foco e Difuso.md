@@ -3,6 +3,8 @@ O Cérebro trabalha com dois modos, porém, não conscientemente em ambos ao mes
 ## Modo Foco
 O modo focado é o modo que é ativo quando focamos em algo afetado pelo córtex pré-frontal( ), raciocínio lógico, sequencial e analítico
 
+O Modo focado é  mais concentrado, bom uso para resoluções de problemas que
+
 - Ele Envolve uma Abordagem direta na resolução de problemas usando métodos racionais, sequenciais e analíticos.
 - O modo focado esta ligado às habilidades de concentração do córtex pré-frontal( área do cérebro atrás da testa ).
 
