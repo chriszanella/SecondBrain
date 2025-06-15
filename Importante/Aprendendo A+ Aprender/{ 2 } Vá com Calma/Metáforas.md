@@ -1,1 +1,1 @@
-As metáforas s
+<font color="#7030a0">As metáforas são ferramentas poderosas no aprendizado.</font>
