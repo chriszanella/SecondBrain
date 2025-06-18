@@ -21,3 +21,6 @@ arena -> cada player 20% de chance
 criar bixo para vender frutas
 e que ira craftar boost de maestria ( bem dificil )
 sistema de maestria com frutas
+
+caixas dao fragmentos e apenas itens v2
+cria os itens v2 com base nos fragmentos obidos
