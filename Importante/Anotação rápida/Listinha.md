@@ -13,3 +13,6 @@ Primeira ilha level 0
 mobs dão xp, dinheiro
 tem que ter missões
 pensar em criar classes de jogadores
+
+caixa
+arena -> cada player 20% de chance
