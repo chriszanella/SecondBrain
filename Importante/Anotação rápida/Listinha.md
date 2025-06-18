@@ -1,3 +1,5 @@
+#
+
 Criar os cargos no LuckPerms
 Mobs das Ilhas
 Npc de venda e troca de itens
@@ -28,3 +30,4 @@ cria os itens v2 com base nos fragmentos obidos
 
 area afk da recomensa com base no tempo ficado
 criar frutas
+
