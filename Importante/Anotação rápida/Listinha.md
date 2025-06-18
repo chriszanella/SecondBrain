@@ -24,3 +24,6 @@ sistema de maestria com frutas
 
 caixas dao fragmentos e apenas itens v2
 cria os itens v2 com base nos fragmentos obidos
+
+
+area afk da recomensa com base no tempo ficado
