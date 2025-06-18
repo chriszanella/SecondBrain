@@ -10,4 +10,6 @@ Claim pronto traduzido
 conta com mcmmo
 
 Primeira ilha level 0
-mobs dão xp 
+mobs dão xp, dinheiro
+tem que ter missões
+pensar em criar classes de jogadores
