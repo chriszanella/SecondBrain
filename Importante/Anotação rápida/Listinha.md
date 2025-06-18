@@ -1,15 +1,18 @@
-#
+## A Ser Criado
+- Criar os cargos e suas permissões no **LuckPerms**
+- Mobs
+	- Normais ( Atacam de volta, dropam itens básicos e xp. )
+	- Bosses ( intervalo de 15 à 30 mins ), dropam os melhores itens daquela ilha com determinada taxa. Dão mais xp e mais dinheiro. - Podem dropar algum fragmento que será usado para criar uma espada mais forte
+## Feito
+- Claims traduzido
+- Tem mcMMO
+## Idéias
+- Cada ilha terá mobs, que irão depender do nível da ilha começando fraco, aumentando o nível e enfim o boss
+-
+## Obrigações
+- Primeira ilha ser level 0
 
-Criar os cargos no LuckPerms
-Mobs das Ilhas
 Npc de venda e troca de itens
-Tick mobs ( atacar player apenas se for atacado )
-	normais
-	bosses ( intervalo de 15 ou 30 mins. )
-	Pode ser feito que eles dropem itens para juntar e craftar uma espada por exemplo
-
-Claim pronto traduzido
-conta com mcmmo
 
 Primeira ilha level 0
 mobs dão xp, dinheiro
