@@ -16,3 +16,8 @@ pensar em criar classes de jogadores
 
 caixa
 arena -> cada player 20% de chance
+
+
+criar bixo para vender frutas
+e que ira craftar boost de maestria ( bem dificil )
+sistema de maestria com frutas
