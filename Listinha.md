@@ -3,7 +3,7 @@
 - [x] Diretor - Gradient ( Roxo e Laranja  )
 - [x] Gerente - Gradient ( Vermelho e Laranja )
 - [x] Admin - Vermelho
-- [ ] Moderador - Verde claro
+- [x] Moderador - Verde claro
 - [ ] Ajudante - Amarelo
 - [ ] Estagiário - Rosa
 
