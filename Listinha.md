@@ -4,7 +4,7 @@
 - [x] Gerente - Gradient ( Vermelho e Laranja )
 - [x] Admin - Vermelho
 - [x] Moderador - Verde claro
-- [ ] Ajudante - Amarelo
+- [x] Ajudante - Amarelo
 - [ ] Estagiário - Rosa
 
 ##### Vips
