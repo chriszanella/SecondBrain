@@ -5,7 +5,7 @@
 - [x] Admin - Vermelho
 - [x] Moderador - Verde claro
 - [x] Ajudante - Amarelo
-- [ ] Estagiário - Rosa
+- [x] Estagiário - Rosa
 
 ##### Vips
 - [ ] Allay - Ciano
