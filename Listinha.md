@@ -2,7 +2,7 @@
 ### Beautiful Ranks
 - [x] Diretor - Gradient ( Roxo e Laranja  )
 - [x] Gerente - Gradient ( Vermelho e Laranja )
-- [ ] Admin - Vermelho
+- [x] Admin - Vermelho
 - [ ] Moderador - Verde claro
 - [ ] Ajudante - Amarelo
 - [ ] Estagiário - Rosa
