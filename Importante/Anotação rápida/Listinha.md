@@ -1,28 +1,32 @@
 ## A Ser Criado
 - Criar os cargos e suas permissões no **LuckPerms**
+- Seria legal a criação de classes para os jogadores.
+
 - Mobs
 	- Normais ( Atacam de volta, dropam itens básicos e xp. )
 	- Bosses ( intervalo de 15 à 30 mins ), dropam os melhores itens daquela ilha com determinada taxa. Dão mais xp e mais dinheiro. - Podem dropar algum fragmento que será usado para criar uma espada mais forte
-- Npc que venda frutas.
-	- // Analisar como vai ser o sistema
+
+
 - Configurar itens que as caixas irão dar
 - Analisar mais formas de se obter chaves de caixas além de por pvp
 - As caixas darão itens bons, porém, v1, para evoluirmos os itens, também as caixas terão que dropar fragmentos que se juntar determinada quantidade fará um item que se juntar com qualquer arma v1, evoluirá ela.
 - Na arena cada pessoa que matar um player terá a determinada chance de receber uma chave para abrir uma caixa, isso com determinadas chances dependendo da raridade da caixa
-- Seria legal a criação de classes para os jogadores.
+
+- Área afk rendera itens conforme o tempo ficado nela.
+
+- Npc que venda frutas.
+	- // Analisar como vai ser o sistema
+- Criar frutas, serão como uma classe que o player tem que dá direito a ele criar poderes dessa frutas, que serão como itens, e ele poderá utilizar seus poderes.
+
+- Criação de sistema de XP - Missões!!
 ## Feito
 - Claims traduzido
 - Tem mcMMO
+- Primeira ilha
+- Lobby
+- Caixas( Menos configuração de itens e formas de obtenção )
 ## Idéias
 - Cada ilha terá mobs, que irão depender do nível da ilha começando fraco, aumentando o nível e enfim o boss
--
+- Criar um leilão para as cabanas no spawn que o player ganhador poderá divulgar qualquer item ali mesmo do spawn, numa cabana própria dele, por determinada quantidade de tempo.
 ## Obrigações
 - Primeira ilha ser level 0
-
-Npc de venda e troca de itens
-
-tem que ter missões
-
-area afk da recomensa com base no tempo ficado
-criar frutas
-
