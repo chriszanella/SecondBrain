@@ -1,7 +1,7 @@
 ## A Ser Criado
 ### Beautiful Ranks
 - [x] Diretor - Gradient ( Roxo e Laranja  )
-- [ ] Gerente - Gradient ( Vermelho e Laranja )
+- [x] Gerente - Gradient ( Vermelho e Laranja )
 - [ ] Admin - Vermelho
 - [ ] Moderador - Verde claro
 - [ ] Ajudante - Amarelo
