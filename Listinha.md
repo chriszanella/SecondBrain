@@ -1,6 +1,29 @@
 ## A Ser Criado
 ### Beautiful Ranks
+- [ ] Diretor - Gradient ( Roxo e Laranja  )
+- [ ] Gerente - Gradient ( Vermelho e Laranja )
+- [ ] Admin - Vermelho
 
+Moderador
+Verde claro
+
+Ajudante
+Amarelo
+
+Estagiário
+Rosa
+
+Allay
+Azul claro
+
+Pirata
+Vermelho escuro (Outra tonalidade)
+
+Capitão
+Rosinha
+
+Marujo
+Azul claro
 
 - Criar os cargos e suas permissões no **LuckPerms**
 - Seria legal a criação de classes para os jogadores.
