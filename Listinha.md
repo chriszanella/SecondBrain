@@ -8,8 +8,8 @@
 - [ ] Estagiário - Rosa
 
 ##### Vips
-- [ ] Allay - Azul claro
-- [ ] Pirata - Gradient ( Vermelho e Roxo )
+- [ ] Allay - Ciano
+- [ ] Pirata - Gradient ( Vermelho e Preto )
 - [ ] Capitão - Gradient ( Rosa e Roxo )
 - [ ] Marujo - Ciano
 
