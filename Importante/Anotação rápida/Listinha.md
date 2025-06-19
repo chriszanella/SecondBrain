@@ -3,6 +3,13 @@
 - Mobs
 	- Normais ( Atacam de volta, dropam itens básicos e xp. )
 	- Bosses ( intervalo de 15 à 30 mins ), dropam os melhores itens daquela ilha com determinada taxa. Dão mais xp e mais dinheiro. - Podem dropar algum fragmento que será usado para criar uma espada mais forte
+- Npc que venda frutas.
+	- // Analisar como vai ser o sistema
+- Configurar itens que as caixas irão dar
+- Analisar mais formas de se obter chaves de caixas além de por pvp
+- As caixas darão itens bons, porém, v1, para evoluirmos os itens, também as caixas terão que dropar fragmentos que se juntar determinada quantidade fará um item que se juntar com qualquer arma v1, evoluirá ela.
+- Na arena cada pessoa que matar um player terá a determinada chance de receber uma chave para abrir uma caixa, isso com determinadas chances dependendo da raridade da caixa
+- Seria legal a criação de classes para os jogadores.
 ## Feito
 - Claims traduzido
 - Tem mcMMO
@@ -14,22 +21,7 @@
 
 Npc de venda e troca de itens
 
-Primeira ilha level 0
-mobs dão xp, dinheiro
 tem que ter missões
-pensar em criar classes de jogadores
-
-caixa
-arena -> cada player 20% de chance
-
-
-criar bixo para vender frutas
-e que ira craftar boost de maestria ( bem dificil )
-sistema de maestria com frutas
-
-caixas dao fragmentos e apenas itens v2
-cria os itens v2 com base nos fragmentos obidos
-
 
 area afk da recomensa com base no tempo ficado
 criar frutas
