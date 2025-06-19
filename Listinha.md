@@ -1,4 +1,7 @@
 ## A Ser Criado
+### Beautiful Ranks
+
+
 - Criar os cargos e suas permissões no **LuckPerms**
 - Seria legal a criação de classes para os jogadores.
 
@@ -30,3 +33,5 @@
 - Criar um leilão para as cabanas no spawn que o player ganhador poderá divulgar qualquer item ali mesmo do spawn, numa cabana própria dele, por determinada quantidade de tempo.
 ## Obrigações
 - Primeira ilha ser level 0
+
+
