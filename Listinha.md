@@ -74,4 +74,12 @@
 - PotionClear - Remove todos os efeitos de poção do alvo.
 - Propel - Impulsiona o mob em direção ao seu alvo
 - Recoil - Chuta a tela do alvo para simular um recuo
-- 
+- ShootFireball - Atira uma bola de fogo no alvo
+- ShootSkull - Atire um crânio do whiter no alvo
+- ShootShulkerBullet - Atira uma bala de shulker no alvo
+- Spin - Faz o alvo "girar".
+- Swap - troca de local com o alvo.
+- Teleport - Teletransport para o alvo.
+- Time - Altera o tempo
+- ThunderLevel - Cria uma tempestade sem chuva no lado do player
+- t
