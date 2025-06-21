@@ -63,4 +63,7 @@
 - EquipCopy - Faz o mob equipar um item igual ao que o seu alvo está equipado.
 - Explosion - Causa uma explosão
 - FakeExplosion - causa uma explosão falsa
-- 
+- FocePull - Teleporta o alvo para o mob forçadamente.
+- Ignite - incendeia o alvo.
+- Lightning - Lança um raio no alvo
+- FakeLightning - Lança um raio falso no alvo
