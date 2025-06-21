@@ -1,3 +1,4 @@
+
 ## A Ser Criado
 ### Beautiful Ranks
 - [x] Diretor - Gradient ( Roxo e Laranja  )
@@ -44,5 +45,6 @@
 - Criar um leilão para as cabanas no spawn que o player ganhador poderá divulgar qualquer item ali mesmo do spawn, numa cabana própria dele, por determinada quantidade de tempo.
 ## Obrigações
 - Primeira ilha ser level 0
+- Adicionar Anti-VPN
 
 
