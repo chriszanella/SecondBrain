@@ -67,3 +67,8 @@
 - Ignite - incendeia o alvo.
 - Lightning - Lança um raio no alvo
 - FakeLightning - Lança um raio falso no alvo
+- Particle - Efeitos de partículas ao redor do alvo
+- ParticleLine - Desenha um linha de partículas até o alvo
+- PlayBlock... - to caum som de algo relacionado a bloco ( quebra de bloco, bloco caindo, batida de bloco, lugar de bloco, passo de bloco..)
+- Potion - Aplica um efeito de poção no alvo
+- PotionClear - Limpa 
