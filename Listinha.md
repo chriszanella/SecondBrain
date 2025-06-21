@@ -49,3 +49,10 @@
 
 ## Mythic Mobs
 - hurtbytarget - Ataca quem atacar ele.
+
+#### Mechanic
+- BlackScreen - Deixa a tela do alvo preta
+- BossBorder - Cria uma borda inescapável ao redor do mob
+- Consume - mob recupera vida ao dar dano.
+- doppleganger - Sósia, copia a skin do seu alvo
+- EnderBeam - Causa aquele efeito do feixe 
