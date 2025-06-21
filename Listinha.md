@@ -83,3 +83,4 @@
 - Time - Altera o tempo
 - ThunderLevel - Cria uma tempestade sem chuva no lado do player
 - TotemOfUndying - Joga um efeito do player ressucitando como acontece com um Totem da Imortalidade.
+#### Alvos
