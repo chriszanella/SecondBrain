@@ -47,4 +47,5 @@
 - Primeira ilha ser level 0
 - Adicionar Anti-VPN
 
-
+## Mythic Mobs
+- hurtbytarget - Ataca quem atacar ele.
