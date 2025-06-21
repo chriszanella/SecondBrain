@@ -55,4 +55,9 @@
 - BossBorder - Cria uma borda inescapável ao redor do mob
 - Consume - mob recupera vida ao dar dano.
 - doppleganger - Sósia, copia a skin do seu alvo
-- EnderBeam - Causa aquele efeito do feixe 
+- EnderBeam - Causa aquele efeito do feixe de Cristal do Ender, igual do EnderDragon.
+- Equip - Faz o mob equipar algum item
+- EquipCopy - Faz o mob equipar um item igual ao que o seu alvo está equipado.
+- Explosion - Causa uma explosão
+- FakeExplosion - causa uma explosão falsa
+- 
