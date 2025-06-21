@@ -71,4 +71,7 @@
 - ParticleLine - Desenha um linha de partículas até o alvo
 - PlayBlock... - to caum som de algo relacionado a bloco ( quebra de bloco, bloco caindo, batida de bloco, lugar de bloco, passo de bloco..)
 - Potion - Aplica um efeito de poção no alvo
-- PotionClear - Limpa 
+- PotionClear - Remove todos os efeitos de poção do alvo.
+- Propel - Impulsiona o mob em direção ao seu alvo
+- Recoil - Chuta a tela do alvo para simular um recuo
+- 
