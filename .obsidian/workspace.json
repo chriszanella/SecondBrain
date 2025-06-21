@@ -25,14 +25,10 @@
             "id": "8d692f3d94059054",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importante/Aprendendo A+ Aprender/Tire Férias.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tire Férias"
+              "title": "New tab"
             }
           }
         ]
@@ -254,10 +250,10 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Listinha.md",
     "Images",
     "Images/Pasted image 20250621121748.png",
     "Timeline/Diária/📅 2025-06-21.md",
-    "Listinha.md",
     "Timeline/Diária/📅 2025-06-20.md",
     "Timeline/Diária/📅 2025-06-19.md",
     "Timeline/Diária/📅 2025-06-18.md",
@@ -290,7 +286,6 @@
     "Importante",
     "ADMIN/Linkador",
     "ADMIN/Painéis",
-    "Chats",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",
