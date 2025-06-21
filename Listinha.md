@@ -48,6 +48,9 @@
 - Adicionar Anti-VPN
 
 ## Mythic Mobs
+- Adicionar skin para bandidos e capangas, porem com cabeças de players para diferenciar, e também para os jogadores piratas poderem ver
+- 
+
 - hurtbytarget - Ataca quem atacar ele.
 
 #### Mechanic
