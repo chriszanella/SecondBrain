@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -254,6 +253,8 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Images",
+    "Images/Pasted image 20250621121748.png",
     "Timeline/Diária/📅 2025-06-21.md",
     "Listinha.md",
     "Timeline/Diária/📅 2025-06-20.md",
@@ -282,7 +283,6 @@
     "Timeline/Diária/📅 2025-05-23.md",
     "Timeline/Diária/📅 2025-05-25.md",
     "Importante/Anotação rápida/new Construct Function.md",
-    "Importante/Anotação rápida/bind().md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
@@ -300,7 +300,6 @@
     "3 - Imagens/table-td.png",
     "3 - Imagens/table-th.png",
     "3 - Imagens/_- visual selection.png",
-    "6 - Full notes/Sem título.canvas",
-    "code.png"
+    "6 - Full notes/Sem título.canvas"
   ]
 }
