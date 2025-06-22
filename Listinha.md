@@ -94,6 +94,8 @@
 - Permitir o mob não olhar para cima/baixo ou não
 - Sem knockback
 - Previne que o mob não queima no sol ( se for uma criatura )
+- Só atacar se for atacado e foca nele.
 - Vida = 100 
 - Dano = 2
 - a cada 2s atacar
+- 
