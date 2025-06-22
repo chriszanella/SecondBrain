@@ -86,3 +86,14 @@
 #### Alvos
 #### Metahabilidades
 ![[Pasted image 20250621121748.png]]
+
+#### Meu bandido level 0
+- Sempre exibir o nome/displayer name.
+- Não colidir com player
+- Distância em blocos que o mob irá ficar, bravo, seguir etc. definido para 5
+- Permitir o mob não olhar para cima/baixo ou não
+- Sem knockback
+- Previne que o mob não queima no sol ( se for uma criatura )
+- Vida = 100 
+- Dano = 2
+- a cada 2s atacar
