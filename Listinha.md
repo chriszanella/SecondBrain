@@ -98,4 +98,37 @@
 - Vida = 100 
 - Dano = 2
 - a cada 2s atacar
-- 
+## Plugins
+#### Manter
+- PhoenixCrates
+- MythicMobs
+- FastAsyncWorldEdit
+#### Plugins
+- BetonQuest
+- Citizens
+- DecentHolograms
+- DeluxeMenu
+- Elevator
+- FastAsyncWorldEdit
+- GriefPrevent
+- GSit
+- Luckperms
+- Multiverse-core
+- MythicMobs
+- nChat
+- OldCombat
+- Oraxen
+- PhoenixCrates
+- PlaceholderAPI
+- ProtocolLIB
+- Sentinel
+- SkinRestore
+- TAB
+- Vault
+- ViaBackwards
+- ViaRewind
+- ViaVersion
+- VoidGen
+- WorldGuard
+- yBolsa
+- yPlugins
