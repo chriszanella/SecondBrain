@@ -109,7 +109,7 @@
 - DecentHolograms
 - DeluxeMenu
 - Elevator
-- FastAsyncWorldEdit
+- FastAsyncWorldEdit ✅
 - GriefPrevent
 - GSit
 - Luckperms
