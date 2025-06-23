@@ -113,7 +113,7 @@
 - GriefPrevent
 - GSit
 - Luckperms
-- Multiverse-core
+- Multiverse-core ✅
 - MythicMobs
 - nChat
 - OldCombat
@@ -128,7 +128,7 @@
 - ViaBackwards
 - ViaRewind
 - ViaVersion
-- VoidGen
+- VoidGen ✅
 - WorldGuard
 - yBolsa
 - yPlugins
