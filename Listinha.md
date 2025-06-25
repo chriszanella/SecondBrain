@@ -122,13 +122,11 @@
 - PlaceholderAPI
 - ProtocolLIB
 - Sentinel
-- SkinRestore
+- SkinRestore ✅
 - TAB
-- Vault
-- ViaBackwards
-- ViaRewind
-- ViaVersion
+- Vault ✅
+- ViaRewind ✅
+- ViaVersion ✅
 - VoidGen ✅
 - WorldGuard
-- yBolsa
-- yPlugins
+- yPlugins ✅
