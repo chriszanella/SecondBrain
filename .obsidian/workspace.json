@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importante/Anotação rápida/defineProperty(ies).md",
+                "file": "Importante/Anotação rápida/Object.assign().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "defineProperty(ies)"
+              "title": "Object.assign()"
             }
           },
           {
@@ -259,8 +259,9 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Timeline/Diária/📅 2025-07-14.md",
     "Importante/Anotação rápida/defineProperty(ies).md",
+    "Importante/Anotação rápida/Object.assign().md",
+    "Timeline/Diária/📅 2025-07-14.md",
     "Listinha.md",
     "Timeline/Diária/📅 2025-06-26.md",
     "Timeline/Diária/📅 2025-06-25.md",
@@ -289,7 +290,6 @@
     "Importante/Anotação rápida/Array Map.md",
     "Timeline/Diária/📅 2025-06-06.md",
     "Importante/Projetos/Trabalho da Feira de Ciências..md",
-    "Importante/Anotação rápida/Travar objeto.md",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
