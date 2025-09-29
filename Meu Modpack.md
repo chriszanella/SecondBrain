@@ -1,4 +1,4 @@
-- Mekanism
+- Mekanism ( e cabos melhores )
 - Mekanism Reactors
 - Powah
 - Applied Energistic 2
@@ -12,8 +12,18 @@
 - Build Gadjets
 - Shrink
 - Abelhas
+- Occultism
+- Ars Novoeu
+- Farmers Delight
+- Compact Machines
+
 
 - Ftb Ultimine
 - Ftb Chunks
 - Jei
-- Minimapa
+- Minimap e Global
+
+- Waystone
+- Other World
+
+( Sistema Monetario para compra e venda de itens. Reduzir quantidade de force load para caso multiplayer )

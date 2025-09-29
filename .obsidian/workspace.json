@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -277,10 +278,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa503495a08aa92f",
+  "active": "8d692f3d94059054",
   "lastOpenFiles": [
-    "Meu Modpack.md",
     "Timeline/Diária/📅 2025-09-29.md",
+    "Meu Modpack.md",
     "Timeline/Diária/📅 2025-07-30.md",
     "Importante/Anotação rápida/getOwnPropertyDescriptor.md",
     "Importante/Anotação rápida/Object.assign().md",
