@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Sem título.md",
+                "file": "Node/Projetos/Mario Kart.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Mario Kart.js"
             }
           },
           {
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -278,8 +279,10 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Node/Como funciona.md",
     "Node/Sem título.md",
+    "Node/Projetos/Mario Kart.js.md",
+    "Node/Projetos",
+    "Node/Como funciona.md",
     "Images/Pasted image 20251021185625.png",
     "Node/O que NODE não e.md",
     "Node/Criação.md",
@@ -307,7 +310,6 @@
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma/Metáforas.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Tire Férias.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Porque reler nem sempre é bom..md",
-    "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Abra a porta.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma",
     "Importante/Aprendendo A+ Aprender",
@@ -315,7 +317,6 @@
     "Importante/Anotação rápida",
     "ADMIN",
     "Importante",
-    "ADMIN/Linkador",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",
