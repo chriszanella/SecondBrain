@@ -2,3 +2,5 @@
 2010 - A versão -.1.14 do Node.js foi lançada, marcando o inicio do desenvolvimento da comunidade e o crescente interesse na plataforma.
 2011 - o node.js foi adotado por grandes empresas como Microsoft, Yahoo e Linkedin, aumentando ainda mais sua popularidade
 2012 - a formação da fundação do node.js como uma organização sem fins lucrativos para gerenciar e evoluir o projeto. Mais tarde conhecida como OpenJS Foundation. ( Porque o Ryan deixou o projeto de lado, para a comunidade, pois, ele não estava achando interessante como o Node estava funcionando )
+2013 - lancada versao 0.10 do Node, trazendo melhorias de desempenho e estabilidade.
+20215 - a versao 0.12 introduziu o suporte oficial para o ECMAScript 6 (ES6), trazendo recursos modernos ao 

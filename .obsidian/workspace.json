@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -276,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "534219a3d9e93372",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
     "Timeline/Diária/📅 2025-09-29.md",
     "Node/Criacao.md",
