@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Diária/📅 2025-09-29.md",
+                "file": "Node/Criacao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 2025-09-29"
+              "title": "Criacao"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "📅 2025-09-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -278,11 +276,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d692f3d94059054",
+  "active": "534219a3d9e93372",
   "lastOpenFiles": [
-    "Meu Modpack.md",
-    "Timeline/Diária/📅 2025-10-21.md",
     "Timeline/Diária/📅 2025-09-29.md",
+    "Node/Criacao.md",
+    "Node",
+    "Timeline/Diária/📅 2025-10-21.md",
+    "Meu Modpack.md",
     "Timeline/Diária/📅 2025-07-30.md",
     "Importante/Anotação rápida/getOwnPropertyDescriptor.md",
     "Importante/Anotação rápida/Object.assign().md",
@@ -309,14 +309,12 @@
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma",
     "Timeline/Diária/📅 2025-06-15.md",
     "Timeline/Diária/📅 2025-06-12.md",
-    "Second Brain.md",
     "Importante/Aprendendo A+ Aprender",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
     "Importante",
     "ADMIN/Linkador",
-    "ADMIN/Painéis",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",
