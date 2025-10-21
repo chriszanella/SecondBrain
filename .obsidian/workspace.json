@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/O que NODE não e.md",
+                "file": "Node/Como funciona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que NODE não e"
+              "title": "Como funciona"
             }
           },
           {
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -277,10 +276,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e2403624c4d66c6",
+  "active": "534219a3d9e93372",
   "lastOpenFiles": [
-    "Node/Criação.md",
+    "Images/Pasted image 20251021185625.png",
     "Node/O que NODE não e.md",
+    "Node/Como funciona.md",
+    "Node/Criação.md",
     "Timeline/Diária/📅 2025-09-29.md",
     "Node",
     "Timeline/Diária/📅 2025-10-21.md",
@@ -306,10 +307,8 @@
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Tire Férias.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Porque reler nem sempre é bom..md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Abra a porta.md",
-    "Importante/Aprendendo A+ Aprender/Untitled.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma",
-    "Timeline/Diária/📅 2025-06-15.md",
     "Importante/Aprendendo A+ Aprender",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
