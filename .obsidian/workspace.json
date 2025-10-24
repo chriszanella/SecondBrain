@@ -11,14 +11,12 @@
             "id": "9e2403624c4d66c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Node/Projetos/Mario Kart.js.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20251021185625.png"
               },
-              "icon": "lucide-file",
-              "title": "Mario Kart.js"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021185625"
             }
           },
           {
@@ -63,8 +61,7 @@
               "title": "📅 2025-09-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -292,15 +288,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3ae20df26b59ac8",
+  "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
+    "Images/Pasted image 20250621121748.png",
+    "Node/Como funciona.md",
+    "Node/O que NODE não e.md",
+    "Node/Projetos/Mario Kart.js.md",
     "Timeline/Diária/📅 2025-10-24.md",
     "Node/Sem título.md",
-    "Node/Projetos/Mario Kart.js.md",
     "Node/Projetos",
-    "Node/Como funciona.md",
     "Images/Pasted image 20251021185625.png",
-    "Node/O que NODE não e.md",
     "Node/Criação.md",
     "Timeline/Diária/📅 2025-09-29.md",
     "Node",
@@ -318,13 +315,11 @@
     "Timeline/Diária/📅 2025-06-22.md",
     "Timeline/Diária/📅 2025-06-21.md",
     "Images",
-    "Images/Pasted image 20250621121748.png",
     "Timeline/Diária/📅 2025-06-20.md",
     "Timeline/Diária/📅 2025-06-19.md",
     "Timeline/Diária/📅 2025-06-18.md",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma/Modo Foco e Difuso.md",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma/Metáforas.md",
-    "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta/Tire Férias.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma",
     "Importante/Aprendendo A+ Aprender",
