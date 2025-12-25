@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Diária/📅 2025-12-25.md",
+                "file": "Java/Como JAVA Funciona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 2025-12-25"
+              "title": "Como JAVA Funciona"
             }
           },
           {
@@ -75,7 +75,7 @@
       {
         "id": "202c8196eb7f4b46",
         "type": "tabs",
-        "dimension": 53.37787676317744,
+        "dimension": 80.62015503875969,
         "children": [
           {
             "id": "534219a3d9e93372",
@@ -122,7 +122,7 @@
       {
         "id": "149b08de495f4376",
         "type": "tabs",
-        "dimension": 46.62212323682256,
+        "dimension": 19.379844961240313,
         "children": [
           {
             "id": "4ec365118bc1e1a4",
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "81209350cbbdd43e",
@@ -292,20 +292,22 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Node/Criação.md",
+    "Node/Sem título.md",
+    "Java/Como JAVA Funciona.md",
+    "Java",
+    "Meu Modpack.md",
     "Timeline/Diária/📅 2025-12-25.md",
+    "Node/Criação.md",
     "Node/O que NODE não e.md",
     "Node/Como funciona.md",
     "Images/Pasted image 20251021185625.png",
     "Images/Pasted image 20250621121748.png",
     "Node/Projetos/Mario Kart.js.md",
     "Timeline/Diária/📅 2025-10-24.md",
-    "Node/Sem título.md",
     "Node/Projetos",
     "Timeline/Diária/📅 2025-09-29.md",
     "Node",
     "Timeline/Diária/📅 2025-10-21.md",
-    "Meu Modpack.md",
     "Timeline/Diária/📅 2025-07-30.md",
     "Importante/Anotação rápida/getOwnPropertyDescriptor.md",
     "Importante/Anotação rápida/Object.assign().md",
@@ -322,14 +324,12 @@
     "Timeline/Diária/📅 2025-06-19.md",
     "Timeline/Diária/📅 2025-06-18.md",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma/Modo Foco e Difuso.md",
-    "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma/Metáforas.md",
     "Importante/Aprendendo A+ Aprender/{ 1 } Abra a Porta",
     "Importante/Aprendendo A+ Aprender/{ 2 } Vá com Calma",
     "Importante/Aprendendo A+ Aprender",
     "Importante/Anotações/Módulo de Funções",
     "Importante/Anotação rápida",
     "ADMIN",
-    "Importante",
     "5 - Desenhos/1 - Mapa Mental.canvas",
     "3 - Imagens/rowspan.png",
     "3 - Imagens/colspan.png",
