@@ -11,12 +11,14 @@
             "id": "9e2403624c4d66c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20251021185625.png"
+                "file": "Timeline/Diária/📅 2025-12-25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251021185625"
+              "icon": "lucide-file",
+              "title": "📅 2025-12-25"
             }
           },
           {
@@ -290,15 +292,16 @@
   },
   "active": "9e2403624c4d66c6",
   "lastOpenFiles": [
-    "Images/Pasted image 20250621121748.png",
-    "Node/Como funciona.md",
+    "Node/Criação.md",
+    "Timeline/Diária/📅 2025-12-25.md",
     "Node/O que NODE não e.md",
+    "Node/Como funciona.md",
+    "Images/Pasted image 20251021185625.png",
+    "Images/Pasted image 20250621121748.png",
     "Node/Projetos/Mario Kart.js.md",
     "Timeline/Diária/📅 2025-10-24.md",
     "Node/Sem título.md",
     "Node/Projetos",
-    "Images/Pasted image 20251021185625.png",
-    "Node/Criação.md",
     "Timeline/Diária/📅 2025-09-29.md",
     "Node",
     "Timeline/Diária/📅 2025-10-21.md",
