@@ -10,16 +10,13 @@ tags:
 ---
 
 ## 🧠 Resumo rápido
-Criou uma camada antes da camada dos sistemas operacionais( em vez de compilar para um sistema operacional, compila para a jvm ).
-JVM Faz o serviço de entender a linguagem compilada do Java(ByteCode) e executar em qualquer OS
-
-Codigo e em:  `teste.java`
-compila para: `teste.class`
+<!-- Explica em até 3 frases o que é o assunto e por que ele é importante. -->
 
 ---
 
 ## 📌 Pontos Importantes
-- Código em `.java` compila para `.class`
+- {{ Adiciona os principais pontos aqui }}
+- 
 
 ---
 
